@@ -1,4 +1,4 @@
-##Snowflake ID Generator
+**Snowflake ID Generator**
 1. Empty constructor, the workId and datacenterId will be generated from the MAC address.
 ```java
 IdGenerator generator = new SnowflakeIdGenerator();
